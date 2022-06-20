@@ -26,22 +26,22 @@ export default function Home() {
         />
       </div>
       <div className={styles.grid}>
-        <a href="/" className={styles.card}>
+        <a href="/blogposts/for-students" className={styles.card}>
           <h2>For Students &rarr;</h2>
           <p>Keep it Up and make them powerfully web developer and learn more skills</p>
         </a>
 
-        <a href="/" className={styles.card}>
+        <a href="/blogposts/for-developer" className={styles.card}>
           <h2>For Developer &rarr;</h2>
           <p>You have a degree is deos`nt matter, just yoy have any skill</p>
         </a>
 
-        <a href="/" className={styles.card}>
+        <a href="/blogposts/for-builder" className={styles.card}>
           <h2>For Builder &rarr;</h2>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <p>Discover and deploy boilerplate example Next.js projects. ANd doing best</p>
         </a>
 
-        <a href="/" className={styles.card}>
+        <a href="/blogposts/for-teacher" className={styles.card}>
           <h2>For Teacher &rarr;</h2>
           <p>Instantly deploy your Next.js site to a public URL with Vercel.</p>
         </a>
